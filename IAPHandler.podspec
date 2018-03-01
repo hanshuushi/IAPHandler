@@ -117,10 +117,10 @@ Pod::Spec.new do |s|
   #
 
   # s.framework  = "SomeFramework"
-  s.frameworks = "StoreKit", "CommonCrypto", "SystemConfiguration"
+  s.frameworks = "StoreKit", "SystemConfiguration"
 
   # s.library   = "iconv"
-  s.library = "arpa"
+  # s.library = "arpa"
 
   s.ios.deployment_target = '6.0'
 

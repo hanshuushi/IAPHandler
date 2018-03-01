@@ -19,7 +19,7 @@
 #endif
 
 #import "IAPHandler.h"
-#import <CommonCrypto/CommonDigest.h>
+//#import <CommonCrypto/CommonDigest.h>
 #import <SystemConfiguration/SystemConfiguration.h>
 
 //#include <ifaddrs.h>
